@@ -1,5 +1,5 @@
 # Ex6 Right Rotation LinkedList
-## DATE:22/08/25
+## DATE:03/09/2025
 ## AIM:
 To write a Java  program to:
 Create a singly linked list.
@@ -91,7 +91,7 @@ class Node {
 Thus, the C program to perfom right rotation on linked list is implemented successfully.
 
 # Ex7 Removal of Nodes with a Specific Value from a Linked List
-## DATE: 27/08/25
+
 ## AIM:
 To write a java  program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
 
@@ -193,7 +193,7 @@ public class Main {
 The java program successfully removes all nodes with the specified value (val) from the linked list and returns the new head.
 
 # Ex8 Detection of Cycle and Finding the Starting Node in a Linked List
-## DATE:29/08/25
+
 ## AIM:
 To write a program that detects a cycle in a linked list and returns the node where the cycle begins.
 If there is no cycle, the program should return null without modifying the linked list.
@@ -319,7 +319,7 @@ The program successfully detects whether a cycle exists in the linked list.
 If a cycle is present, it correctly identifies and returns the node where the cycle begins.
 
 # Ex9 Finding the Longest Length of Nested Set in a Permutation Array
-## DATE: 03/09/25
+
 ## AIM:
 To write a program that finds the length of the longest set s[k] defined as s[k] = { nums[k], nums[nums[k]], nums[nums[nums[k]]], … },where the iteration stops before a duplicate element occurs.
 
@@ -393,8 +393,8 @@ class Solution {
 ## Result:
 The program successfully computes the longest length of the nested set s[k] for the given permutation array.
 
-# Flattening a Nested List Using an Iterator
-## DATE:05/09/25
+# EX 10 Flattening a Nested List Using an Iterator
+
 ## AIM:
 To design and implement a class NestedIterator that flattens a nested list of integers such that all integers can be accessed sequentially using an iterator interface (next() and hasNext()).
 ## Algorithm
